@@ -1,1 +1,1 @@
-# worldcupdrafter.io
+# worldcupdrafter
